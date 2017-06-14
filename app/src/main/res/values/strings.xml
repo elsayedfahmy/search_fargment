@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">task</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="location">location</string>
+    <string name="hint_location">city,state or zip (optional)</string>
+    <string name="salaries">salaries</string>
+    <string name="contact">contact</string>
+    <string name="fulltime">full-time</string>
+    <string name="parttime">part-time</string>
+    <string name="intership">Intership</string>
+    <string name="freelance">freelance</string>
+    <string name="distance">distance</string>
+    <string name="Relocate">Relocate</string>
+    <string name="distance_child">distance</string>
+    <string name="title_activity_search2">search2</string>
+    <string name="salary">150$</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
